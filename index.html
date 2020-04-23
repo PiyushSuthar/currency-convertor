@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Conversion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <H1>Currency Conversion</H1>
+        <p>Convert Your Money.</p>
+    </header>
+    <div class="convertor">
+        <input placeholder="Enter Amount" id="c-input" type="number">
+        <div class="from-to">
+            <div class="from">
+                <label>From</label>
+                <select value="from" class="select-css" id="from">
+                    <option name="USD">USD</option>
+                </select>
+            </div>
+            <div class="to">
+                <label>To</label>
+                <select value="to" class="select-css" id="to">
+                    <option name="USD">USD</option>
+                </select>
+            </div>
+        </div>    
+        <button class="convertbtn" type="submit" onclick="convert()">Convert</button>
+        <div class="result" id="result"></div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="money.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
