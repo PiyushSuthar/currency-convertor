@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Currency Conversion</title>
     <link rel="stylesheet" href="style.css">
+    <link rel='manifest' href='manifest.json'>
 </head>
 <body>
 
@@ -32,6 +33,12 @@
         <div class="result" id="result"></div>
     </div>
 
+    <script type="module">
+        import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+
+        const el = document.createElement('pwa-update');
+        document.body.appendChild(el);
+    </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="money.min.js"></script>
     <script src="app.js"></script>

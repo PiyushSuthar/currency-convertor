@@ -1,0 +1,114 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "Currency Convertor",
+    "scope": "/currency-convertor/",
+    "display": "standalone",
+    "start_url": "https://piyushsuthar.codes/currency-convertor/",
+    "short_name": "Currency Convertor",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "images/417f8a75-6af3-b62d-c826-96ac255a256c.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "images/868756b1-ea63-b92c-3fc4-244f4c94c476.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "images/85d11944-c82f-03d2-07e9-c241d8c6476b.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "images/ef500fb8-319f-e1a7-b435-796bf0f8f780.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "images/0c001f30-1adb-1a89-2b65-ce495ceef518.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "images/b5db4fd2-0d84-54f4-ad21-fd900a2b16fe.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "images/5c15335b-c2ed-8baa-274d-14c0773641c1.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "images/ccac0939-670c-9070-2c7f-3c6a8cd1c791.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "images/cf5701b2-16b6-6879-fcca-e061911e80f8.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "images/89edc08b-9e57-7b1b-6a5c-392fc40ba781.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/9285278b-3837-8f6f-4a6b-143f6e52ea34.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "images/51ad38ab-cbc9-a6ba-a51e-43aa7be3fdc9.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "images/74ae3af5-d220-bdbd-dd4d-547c79d09be3.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "images/557b3e8f-fa74-e183-c536-2da54d82dbb9.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fdfff050-1f2c-7673-0226-f9869229adeb.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "images/79d4bff1-5c1b-4d44-ad1e-40a30cbf7cd7.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "images/49952cef-ae68-802e-1f43-56e5816c1b2a.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "images/7ac4f0f3-52ba-f1fd-0a89-d9cca1910bae.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "images/e891d786-f24b-1fa6-ee1b-a810d9af5c3f.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://piyushsuthar.codes/currency-convertor/",
+    "screenshots": []
+}
